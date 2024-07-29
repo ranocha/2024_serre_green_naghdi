@@ -74,7 +74,7 @@ described in the `README.md` file therein.
 ## Authors
 
 - [Hendrik Ranocha](https://ranocha.de) (Johannes Gutenberg University Mainz, Germany)
-- [Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto) (Inria at University of Bordeaux, Germany)
+- [Mario Ricchiuto](https://team.inria.fr/cardamom/marioricchiuto) (Inria at University of Bordeaux, France)
 
 
 ## License
