@@ -1,0 +1,18 @@
+{
+    "license": "MIT",
+    "title": "Reproducibility repository for Structure-preserving approximations of the Serre-Green-Naghdi equations in standard and hyperbolic form",
+    "upload_type": "software",
+    "creators": [
+        {
+            "affiliation": "Institute of Mathematics, Johannes Gutenberg University Mainz, Germany",
+            "name": "Ranocha, Hendrik",
+            "orcid": "0000-0002-3456-2277"
+        },
+        {
+            "affiliation": "Inria at University of Bordeaux, France",
+            "name": "Ricchiuto, Mario",
+            "orcid": "0000-0002-1679-7339"
+        }
+    ],
+    "access_right": "open"
+}
