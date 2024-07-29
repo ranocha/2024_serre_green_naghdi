@@ -1,7 +1,7 @@
 # Structure-preserving approximations of the Serre-Green-Naghdi equations in standard and hyperbolic form
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/DOI/TODO.svg)](https://zenodo.org/doi/TODO)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13120223.svg)](https://zenodo.org/doi/10.5281/zenodo.13120223)
 
 This repository contains information and code to reproduce the results presented
 in the article
@@ -27,7 +27,7 @@ use the implementations provided here, please **also** cite this repository as
   author={Ranocha, Hendrik and Ricchiuto, Mario},
   year={2024},
   howpublished={\url{https://github.com/ranocha/2024_serre_green_naghdi}},
-  doi={TODO}
+  doi={10.5281/zenodo.13120223}
 }
 ```
 
