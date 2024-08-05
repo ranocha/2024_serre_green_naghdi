@@ -33,29 +33,26 @@ use the implementations provided here, please **also** cite this repository as
 
 ## Abstract
 
-We develop structure-preserving numerical methods for the 
+We develop structure-preserving numerical methods for the
 Serre-Green-Naghdi equations, a model for weakly dispersive
 free-surface waves. We consider both the classical form, 
-embedding a non-linear elliptic operator, and a hyperbolic
-approximation of the equations. Systems for both flat and
-variable topography are studied. Our novel numerical methods
-conserve both the total water mass and the total energy.
-In addition, the methods for the original Serre-Green-Naghdi
-equations conserve the total momentum for flat bathymetry.
-For variable topography, all the methods proposed are well-balanced
-for the lake-at-rest state.
-We provide  a theoretical setting allowing to construct schemes
-of any kind (finite difference, finite element, discontinuous Galerkin,
-spectral, etc.) as long as summation-by-parts operators are available
-in the chosen setting. Energy-stable variants are proposed by adding
-a consistent high-order artificial viscosity term.
-The methods proposed are validated through a large set of benchmarks
-allowing to verify all the theoretical properties. Whenever possible,
-comparisons with exact, reference numerical, or experimental data
-are carried out. The impressive advantage of structure preservation,
-and in particular energy preservation, to resolve accurately
-dispersive wave propagation on very coarse meshes is demonstrated
-by several of the tests.
+embedding a non-linear elliptic operator,
+and a hyperbolic approximation of the equations. Systems for 
+both flat and variable topography are studied.
+Our novel numerical methods conserve both the
+total water mass and the total energy. In addition,
+the methods for the original Serre-Green-Naghdi equations
+conserve the total momentum for flat bathymetry.
+For variable topography, all the methods proposed are well-balanced for the lake-at-rest state.
+We provide  a theoretical setting allowing us to construct schemes
+of any kind (finite difference, finite element, discontinuous Galerkin, spectral, etc.)
+as long as summation-by-parts operators are available in the chosen setting.
+Energy-stable variants are proposed by adding a consistent high-order artificial viscosity term.
+The proposed methods are validated through a large set of benchmarks
+to verify all the theoretical properties.
+Whenever possible, comparisons with exact, reference numerical, or  experimental data are carried out.
+The impressive advantage of structure preservation, and in particular energy preservation, to resolve accurately dispersive wave propagation
+on very coarse meshes is demonstrated by several of the tests.
 
 
 ## Numerical experiments
