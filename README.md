@@ -11,7 +11,7 @@ in the article
          equations in standard and hyperbolic form},
   author={Ranocha, Hendrik and Ricchiuto, Mario},
   year={2024},
-  eprint={TODO},
+  eprint={2408.02665},
   eprinttype={arxiv},
   eprintclass={math.NA}
 }
