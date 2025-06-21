@@ -6,11 +6,17 @@
 This repository contains information and code to reproduce the results presented
 in the article
 ```bibtex
-@online{ranocha2024structure,
+@article{ranocha2025structure,
   title={Structure-preserving approximations of the {S}erre-{G}reen-{N}aghdi
          equations in standard and hyperbolic form},
   author={Ranocha, Hendrik and Ricchiuto, Mario},
-  year={2024},
+  journal={Numerical Methods for Partial Differential Equations},
+  volume={41},
+  number={4},
+  pages={e70016},
+  year={2025},
+  month={06},
+  doi={10.1002/num.70016},
   eprint={2408.02665},
   eprinttype={arxiv},
   eprintclass={math.NA}
